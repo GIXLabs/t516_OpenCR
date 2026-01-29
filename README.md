@@ -35,13 +35,15 @@ Setup was tested using Ubuntu 24.04.
 
 11. Install the [Dynamixel Wizard](https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_wizard2/).
 
-12. Scan for the new motor, if the motor is new, the default ID should be 1, and the baudrate should be 57600. 
+12. Plug a battery into the OpenCR board and turn the power on.  
 
-13. Change the ID to 3, and the baudrate to 1,000,000.
+13. Scan for the new motor, if the motor is new, the default ID should be 1, and the baudrate should be 57600. 
 
-14. Make sure you can move the motor using the Dynamixel Wizard. 
+14. Change the ID to 3, and the baudrate to 1,000,000.
 
-15. Turn off the OpenCR and unplug it.
+15. Make sure you can move the motor using the Dynamixel Wizard. 
+
+16. Turn off the OpenCR and unplug it.
 
 
 ### OpenCR Setup
