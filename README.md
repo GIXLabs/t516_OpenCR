@@ -15,7 +15,7 @@ Setup was tested using Ubuntu 24.04.
 
 1. Install the [Arduino IDE](https://www.arduino.cc/en/software/).
 
-2. Follow [ROBOTIS' guide](https://emanual.robotis.com/docs/en/platform/turtlebot3/opencr_setup/) to configure your computer's USB ports to work with the OpenCR board.
+2. Follow [ROBOTIS' guide](https://emanual.robotis.com/docs/en/platform/turtlebot3/opencr_setup/) to configure your computer's USB ports to work with the OpenCR board. Scroll down to where it says "Click here to expand more details about firmware uploads using the Arduino IDE". 
 
 3. Continue following their guide to add the OpenCR board to Arduino IDE.
 
