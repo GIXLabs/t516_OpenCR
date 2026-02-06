@@ -50,17 +50,19 @@ Setup was tested using Ubuntu 24.04.
 
 2. Plug in the OpenCR board to your computer.
 
-3. Open the [t516_OpenCR.ino](t516_OpenCR.ino) file in Arduino IDE.
+3. Clone this repo, do not download it.
 
-4. Change the configuration string to either "GIX_Burger" or "GIX_Waffle" depending on the type of Turtlebot 3 you are using.
+4. Open the [t516_OpenCR.ino](t516_OpenCR.ino) file in Arduino IDE.
 
-5. Select the OpenCR board, and its port in Arduino IDE.
+5. Change the configuration string to either "GIX_Burger" or "GIX_Waffle" depending on the type of Turtlebot 3 you are using.
 
-6. Put the OpenCR board in recovery mode.
+6. Select the OpenCR board, and its port in Arduino IDE.
 
-7. Install the GIX firmware onto the OpenCR board.
+7. Put the OpenCR board in recovery mode.
 
-8. Turn off the OpenCR board, unplug it from your computer, and plug it back into the Turtlebot's Raspberry Pi.
+8. Install the GIX firmware onto the OpenCR board.
+
+9. Turn off the OpenCR board, unplug it from your computer, and plug it back into the Turtlebot's Raspberry Pi. It should play a different song on startup.
 
 
 ## Usage
